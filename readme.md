@@ -5,14 +5,18 @@
 |  |  |
 |--|--|
 | Тип | Распределённая система управления версиями |
-| Разработчик | [__Software Freedom Conservancy__](https://ru.wikipedia.org/wiki/Software_Freedom_Conservancy) |
-| Язык разработки | [__Си__](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8_(%D1%8F%D0%B7%D1%8B%D0%BA_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)), [командная оболочка UNIX](https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BE%D0%BB%D0%BE%D1%87%D0%BA%D0%B0_Unix), [Perl](https://ru.wikipedia.org/wiki/Perl), [Tcl](https://ru.wikipedia.org/wiki/Tcl), [Python](https://ru.wikipedia.org/wiki/Python) и [C++](https://ru.wikipedia.org/wiki/C%2B%2B) |
+| Разработчик | Software Freedom Conservancy |
+| Язык разработки | Си, Perl, Tcl, Python и C++ |
 | Операционная система | кроссплатформенность |
 | Язык интерфейса | Английский |
 | Первый выпуск | 7 апреля 2005 |
 | Последняя версия | 2\.37.0 от 27 июня 2022 |
 | Сайт разработчика | Git ([git-scm.com](http://git-scm.com)[)](https://git-scm.com/) |
-| Страница загрузки | [Git - Downloads (](https://git-scm.com/downloads)[git-scm.com](http://git-scm.com)[)](https://git-scm.com/downloads) |
+| Страница загрузки | Git - Загрузка ([git-scm.com](http://git-scm.com)[)](https://git-scm.com/downloads) |
+
+> ## **Free and Open Source**
+>
+> Git is released under the [GNU General Public License version 2.0](https://opensource.org/licenses/GPL-2.0), which is an [open source license](https://opensource.org/docs/osd). The Git project chose to use GPLv2 to guarantee your freedom to share and change free software---to make sure the software is free for all its users.
 
 ## Что такое Git?
 
@@ -57,3 +61,5 @@ Git - это одна из реализаций распределённых с�
 ## Удаление веток
 
 Для удаления ветки ввести команду "git branch -d 'name branch'"
+
+---
